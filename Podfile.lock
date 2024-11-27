@@ -1,0 +1,16 @@
+PODS:
+  - WaterDrops (0.1.3)
+
+DEPENDENCIES:
+  - WaterDrops
+
+SPEC REPOS:
+  trunk:
+    - WaterDrops
+
+SPEC CHECKSUMS:
+  WaterDrops: 8f28cad75a2770e24bc2f7688274273a9d92a289
+
+PODFILE CHECKSUM: 5e6c220ef612ad1799cc823cb2ef9490958203f6
+
+COCOAPODS: 1.16.2
